@@ -1,0 +1,14 @@
+Total de frames analisados 3326
+Total de frames sem emoções detectadas: 456
+Movimentos com o braço esquerdo: 21
+Movimentos com o braço direito: 22
+Acenos: 27
+Danças: 23
+Total de emoções detectadas:
+	sad: 123
+	happy: 159
+	angry: 43
+	fear: 159
+	surprise: 50
+	disgust: 1
+	neutral: 163
