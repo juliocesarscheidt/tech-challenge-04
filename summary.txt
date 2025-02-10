@@ -12,5 +12,3 @@ Total de emoções detectadas:
 	surprise: 50
 	disgust: 1
 	neutral: 163
-
-código do projeto: https://github.com/juliocesarscheidt/tech-challenge-04
