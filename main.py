@@ -260,6 +260,6 @@ def detect_faces_and_emotions(video_path, output_path):
 
 if __name__ == "__main__":
   script_dir = os.path.dirname(os.path.abspath(__file__))
-  video_path = os.path.join(script_dir, "video_full.mp4")
-  output_path = os.path.join(script_dir, "output_video_full.mp4")
+  video_path = os.path.join(script_dir, "video.mp4")
+  output_path = os.path.join(script_dir, "output_video.mp4")
   detect_faces_and_emotions(video_path, output_path)

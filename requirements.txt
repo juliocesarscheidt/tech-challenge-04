@@ -1,0 +1,7 @@
+numpy==1.26.4
+opencv-python==4.11.0.86
+opencv-python-headless==4.11.0.86
+mediapipe==0.10.21
+tqdm==4.67.1
+deepface==0.0.93
+dlib==19.24.6
